@@ -1,0 +1,53 @@
+.collection{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
+.sub_head{
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.delhi{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    align-items: center;
+}
+
+.description{
+    font-weight: lighter;
+    color: gray;
+}
+.delhiLink{
+    color: rgb(210, 129, 129);
+}
+
+.imagesof{
+    height: 300px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 1rem;
+}
+
+.restaurant_content{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 2rem;
+    justify-content: center;
+}
+
+.first{
+    color: white;
+    position: relative;
+    bottom: 50px;
+    left: 10px;
+}
+.places{
+    position: relative;
+    color: white;
+    bottom: 45px;
+    left: 10px;
+}

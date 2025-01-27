@@ -1,0 +1,20 @@
+.options{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 1rem;
+    max-width: 1300px;
+    margin: 0 auto;
+    margin-bottom: 3rem;
+}
+
+.btn{
+    background-color: white;
+    color: black;
+    font-weight: 400;
+    padding: 5px 10px;
+    border: 1px solid rgb(244, 238, 238);
+    border-radius: 1rem;
+    cursor: pointer;
+    
+}

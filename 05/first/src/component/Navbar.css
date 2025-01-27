@@ -1,0 +1,38 @@
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1300px;
+    margin: 0 auto;
+    height: 50px;
+    gap: 15rem;
+    margin-top: 2rem;
+}
+.company_logo{
+    font-size: 3rem;
+}
+
+.search_section{
+    display: flex;
+    gap: 0.5rem;
+    background-color: #e5e6e4;
+    align-items: center;
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+.search_section input{
+    border: none;
+    width: 150px;
+    background-color: #e5e6e4;
+}
+
+.accountSection{
+    display: flex;
+    gap: 1rem;
+}
+.btn{
+    background-color: white;
+    border: none;
+    font-size: 1.5rem;
+    color: #7d8597;
+}

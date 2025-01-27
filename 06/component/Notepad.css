@@ -1,0 +1,24 @@
+.notePad{
+    width: 300px;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 1rem;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+
+}
+.para{
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    word-wrap: break-word;
+}
+.inputField{
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 2rem;
+    border: none;
+    outline: none;
+}
